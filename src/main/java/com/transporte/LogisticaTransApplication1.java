@@ -1,0 +1,13 @@
+package com.transporte;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+//@SpringBootApplication
+public class LogisticaTransApplication1 {
+
+	public static void main(String[] args) {
+		SpringApplication.run(LogisticaTransApplication1.class, args);
+	}
+
+}
